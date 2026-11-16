@@ -1,2 +1,7 @@
 theme: jekyll-theme-minimal
 title: Public records, as clean data
+url: https://beingrealfrank.github.io
+baseurl: /civic-data-feeds-samples
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
