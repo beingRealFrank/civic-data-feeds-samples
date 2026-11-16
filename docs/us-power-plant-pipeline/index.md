@@ -1,0 +1,24 @@
+# Planned US solar and battery projects, 50 MW and up
+
+Projects in the EIA-860M planned inventory in Texas with expected online months. Refreshed 2026-11-16; 12 rows shown.
+
+[Run this yourself or get the full, filtered feed: us-power-plant-pipeline on Apify](https://apify.com/civic_data_feeds/us-power-plant-pipeline)
+
+| plannedOperationDate | plantName | entityName | technology | nameplateMw | county | status |
+|---|---|---|---|---|---|---|
+| 2026-09 | Evans Creek Energy Storage Project | Evans Creek Energy Storage LLC | Batteries | 103 | Val Verde | (V) Under construction, more than 50 percent complete |
+| 2026-10 | Blue Jay Solar I, LLC | Blue Jay Solar I, LLC | Solar Photovoltaic | 210 | Grimes | (TS) Construction complete, but not yet in commercial operation |
+| 2026-10 | Roseland Solar Project, LLC | Enel Green Power Roseland Solar, LLC | Solar Photovoltaic | 500 | Falls | (TS) Construction complete, but not yet in commercial operation |
+| 2026-10 | Cattlemen Solar Park | Cattlemen Solar Park LLC | Solar Photovoltaic | 240 | Milam | (TS) Construction complete, but not yet in commercial operation |
+| 2026-10 | MRG Goody Solar Project Hybrid | Nexus Renewable Power, LLC | Batteries | 50.4 | Lamar | (V) Under construction, more than 50 percent complete |
+| 2026-10 | MRG Goody Solar Project Hybrid | Nexus Renewable Power, LLC | Solar Photovoltaic | 170.8 | Lamar | (V) Under construction, more than 50 percent complete |
+| 2026-10 | Jones City 1 Solar | Lightsource Renewable Energy Asset Management, LLC | Solar Photovoltaic | 215 | Jones | (TS) Construction complete, but not yet in commercial operation |
+| 2026-10 | GulfStar Power, LLC | GulfStar Power, LLC | Solar Photovoltaic | 451.6 | Wharton | (TS) Construction complete, but not yet in commercial operation |
+| 2026-10 | Jones City 2 Solar | Lightsource Renewable Energy Asset Management, LLC | Solar Photovoltaic | 185 | Jones | (TS) Construction complete, but not yet in commercial operation |
+| 2026-10 | Ables Springs Solar & Storage | Ables Springs Solar, LLC | Solar Photovoltaic | 151 | Kaufman | (TS) Construction complete, but not yet in commercial operation |
+| 2026-10 | Hill Solar 1 | Hill Solar 1, LLC | Solar Photovoltaic | 405 | Hill | (TS) Construction complete, but not yet in commercial operation |
+| 2026-10 | Danish Fields Solar, LLC | Danish Fields Solar, LLC | Solar Photovoltaic | 600 | Wharton | (TS) Construction complete, but not yet in commercial operation |
+
+[Download CSV](latest.csv) · [All samples](../index.md)
+
+Source data is public. See the Actor page for the source and licence notes.
