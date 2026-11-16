@@ -2,10 +2,10 @@
 
 Weekly samples from four Apify Actors by Frank Gilroy. Last refreshed 2026-11-16. Each page shows a small slice; the Actors return full, filtered feeds.
 
-- [New IT services tenders in the EU and UK](public-tenders-monitor/index.md): kept from the last refresh
-- [Federal grant opportunities posted in the last 14 days](us-grants-monitor/index.md): kept from the last refresh
-- [Planned US solar and battery projects, 50 MW and up](us-power-plant-pipeline/index.md): kept from the last refresh
-- [Canadian government tenders published this week](canadabuys-tenders-monitor/index.md): kept from the last refresh
+- [New IT services tenders in the EU and UK](public-tenders-monitor/index.md): refreshed weekly
+- [Federal grant opportunities posted in the last 14 days](us-grants-monitor/index.md): refreshed weekly
+- [Planned US solar and battery projects, 50 MW and up](us-power-plant-pipeline/index.md): refreshed weekly
+- [Canadian government tenders published this week](canadabuys-tenders-monitor/index.md): refreshed weekly
 
 ## Guides
 - [Get EU tender notices from TED as JSON or CSV](guides/ted-tenders-api-csv.md)
