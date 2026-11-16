@@ -12,3 +12,7 @@ Weekly samples from four Apify Actors by Frank Gilroy. Last refreshed 2026-11-16
 - [Search Grants.gov programmatically](guides/grants-gov-api-search.md)
 - [EIA-860M planned power plants: download and status codes](guides/eia-860m-planned-generators.md)
 - [CanadaBuys tender notices as CSV or JSON](guides/canadabuys-tenders-open-data.md)
+- [UK Contracts Finder API](guides/uk-contracts-finder-api.md)
+- [Find a Tender API](guides/find-a-tender-ocds-api.md)
+- [AusTender contract awards API](guides/austender-contract-awards-api.md)
+- [Planned US battery storage projects by state](guides/planned-battery-storage-projects-by-state.md)
