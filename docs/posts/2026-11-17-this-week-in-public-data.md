@@ -23,7 +23,7 @@ Poland publishing almost as many IT notices as Germany is the number to notice. 
 
 ## US federal grants: a quiet week
 
-Only 10 new opportunities were posted on Grants.gov in the last 7 days (status posted), against 19 in the previous 14-day window of our weekly sample. If you watch for new grants, a daily alert matters more in weeks like this because there is little noise. See the [Grants.gov search guide](../guides/grants-gov-api-search.html).
+Only 10 new opportunities were posted on Grants.gov in the last 7 days (status posted). That is a small number for the whole US federal government, so a daily alert for your topic will mostly stay silent and then matter when something does appear. See the [Grants.gov search guide](../guides/grants-gov-api-search.html).
 
 ## Canada: 21 new federal tender notices
 

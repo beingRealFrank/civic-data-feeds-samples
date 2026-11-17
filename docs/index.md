@@ -20,4 +20,4 @@ Weekly samples from four Apify Actors by Frank Gilroy. Last refreshed 2026-11-16
 - [TED notice types explained](guides/ted-notice-types-explained.md)
 
 ## Notes
-- [This week in public data (17 Nov 2026)](posts/2026-11-17-this-week-in-public-data.md)
+- [This week in public data: 884 IT tenders in the EU, 64 GW of planned US batteries](posts/2026-11-17-this-week-in-public-data.md)
