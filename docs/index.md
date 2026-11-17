@@ -19,5 +19,8 @@ Weekly samples from four Apify Actors by Frank Gilroy. Last refreshed 2026-11-16
 - [Grants.gov applicant type and funding category codes](guides/grants-gov-applicant-type-codes.md)
 - [TED notice types explained](guides/ted-notice-types-explained.md)
 
+- [EIA-860M technology names and energy source codes](guides/eia-860m-technology-energy-source-codes.md)
+- [CPV codes cheat sheet](guides/cpv-codes-cheat-sheet.md)
+
 ## Notes
 - [This week in public data: 884 IT tenders in the EU, 64 GW of planned US batteries](posts/2026-11-17-this-week-in-public-data.md)
