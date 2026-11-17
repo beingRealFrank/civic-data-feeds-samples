@@ -18,3 +18,6 @@ Weekly samples from four Apify Actors by Frank Gilroy. Last refreshed 2026-11-16
 - [Planned US battery storage projects by state](guides/planned-battery-storage-projects-by-state.md)
 - [Grants.gov applicant type and funding category codes](guides/grants-gov-applicant-type-codes.md)
 - [TED notice types explained](guides/ted-notice-types-explained.md)
+
+## Notes
+- [This week in public data (17 Nov 2026)](posts/2026-11-17-this-week-in-public-data.md)
