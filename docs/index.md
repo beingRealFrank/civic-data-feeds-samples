@@ -23,6 +23,7 @@ Weekly samples from four Apify Actors by Frank Gilroy. Last refreshed 2026-11-16
 - [Find a Tender vs Contracts Finder](guides/find-a-tender-vs-contracts-finder.md)
 - [UNSPSC codes on CanadaBuys](guides/unspsc-codes-canadabuys.md)
 - [Grants.gov forecasted vs posted](guides/grants-gov-forecasted-vs-posted.md)
+- [EIA-860M canceled, postponed and retired generators](guides/eia-860m-canceled-retired-generators.md)
 
 ## Notes
 - [This week in public data: 884 IT tenders in the EU, 64 GW of planned US batteries](posts/2026-11-17-this-week-in-public-data.md)
