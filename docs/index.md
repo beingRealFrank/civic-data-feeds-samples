@@ -25,6 +25,7 @@ Weekly samples from four Apify Actors by Frank Gilroy. Last refreshed 2026-11-17
 - [Grants.gov forecasted vs posted](guides/grants-gov-forecasted-vs-posted.md)
 - [EIA-860M canceled, postponed and retired generators](guides/eia-860m-canceled-retired-generators.md)
 - [TED publication numbers and notice links](guides/ted-notice-links-and-publication-numbers.md)
+- [TED notice pages return HTTP 202 with an empty body](guides/ted-notice-page-http-202-waf-challenge.md)
 
 ## Notes
 - [This week in public data: 884 IT tenders in the EU, 64 GW of planned US batteries](posts/2026-11-17-this-week-in-public-data.md)
