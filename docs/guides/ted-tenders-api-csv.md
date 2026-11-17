@@ -27,7 +27,21 @@ What to know before you build on it:
 - **Notice types** matter. `cn-standard` is a normal contract notice (an open competition); award notices use types such as `can-standard`.
 - **Titles and buyer names** come back as objects keyed by language (`eng`, `deu`, ...), so pick one language and fall back to English.
 - **Values and deadlines are per lot**, so one notice can carry several of each.
-- **Paging:** request `page` 2, 3, ... until you have everything. Keep to about one request a second.
+- **Paging:** `limit` can be at most 250. With the default page mode, `page` x `limit` must stay at or below 15,000, otherwise the API answers `400 SEARCH_WINDOW_TOO_WIDE`. For long result lists use iteration mode instead (next section). Keep to about one request a second.
+
+## Paging safely: iteration mode
+
+Page numbers can skip or repeat a notice if the listing changes while you read it. Iteration mode returns a token for the next request instead:
+
+```bash
+# first request: no token
+curl -s -X POST https://api.ted.europa.eu/v3/notices/search -H 'content-type: application/json' \
+  -d '{"query":"publication-date>=20261112 AND classification-cpv=72*","fields":["publication-number"],"limit":250,"paginationMode":"ITERATION"}'
+# next requests: same body plus the token from the previous answer
+#   ... "paginationMode":"ITERATION","iterationNextToken":"<token from the last response>"
+```
+
+Tested on 17 November 2026: a query with 913 matches came back as pages of 250, 250, 250 and 163 notices, with 913 unique publication numbers and no repeats. The page after the last notices came back empty (the token was still present), so stop when a page returns no notices or when you have `totalNoticeCount` of them.
 
 ## The ready-made route
 
