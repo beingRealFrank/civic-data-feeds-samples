@@ -16,3 +16,5 @@ Weekly samples from four Apify Actors by Frank Gilroy. Last refreshed 2026-11-16
 - [Find a Tender API](guides/find-a-tender-ocds-api.md)
 - [AusTender contract awards API](guides/austender-contract-awards-api.md)
 - [Planned US battery storage projects by state](guides/planned-battery-storage-projects-by-state.md)
+- [Grants.gov applicant type and funding category codes](guides/grants-gov-applicant-type-codes.md)
+- [TED notice types explained](guides/ted-notice-types-explained.md)
