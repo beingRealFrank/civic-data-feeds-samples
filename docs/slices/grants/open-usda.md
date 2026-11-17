@@ -1,0 +1,49 @@
+---
+title: "Open USDA grant opportunities: nearest deadlines first"
+description: "Open USDA grant opportunities on Grants.gov sorted by closing date, with numbers and links."
+---
+# Open USDA grant opportunities: nearest deadlines first
+
+21 USDA opportunities are posted and open on Grants.gov; the 21 closing soonest are shown. Refreshed 2026-11-17.
+
+| Closes | Number | Title | Agency | Opened | Notice |
+|---|---|---|---|---|---|
+| 11/17/2026 | USDA-NIFA-SBIR-012221 | Small Business Innovation Research and Small Business Technology Transfer Programs Phase II | USDA-NIFA | 10/01/2026 | [link](https://www.grants.gov/search-results-detail/364020) |
+| 11/19/2026 | USDA-NHQ-ACEP-26-NOFO0001456 | Easement Restoration and Stewardship | USDA-NRCS | 09/25/2026 | [link](https://www.grants.gov/search-results-detail/363920) |
+| 11/20/2026 | RUS-ARC-2026 | Affordable Rural Cooperative (ARC) Energy Program | USDA-RUS | 10/19/2026 | [link](https://www.grants.gov/search-results-detail/363779) |
+| 12/03/2026 | USDA-NIFA-HSI-011903 | Hispanic-Serving Institutions Education Grants Program | USDA-NIFA | 09/10/2026 | [link](https://www.grants.gov/search-results-detail/363846) |
+| 12/04/2026 | USDA-AMS-TM-SCMP-G-26-0020 | Specialty Crop Multi-State Grant Program 2026 | USDA-AMS | 04/13/2026 | [link](https://www.grants.gov/search-results-detail/361876) |
+| 12/07/2026 | RD-RBS-26-03-MPPEP | MPPEP Phase 3 Invasive Wild-Caught Catfish | USDA-RBCS | 09/08/2026 | [link](https://www.grants.gov/search-results-detail/363804) |
+| 12/08/2026 | USDA-FS-2026-GLRI-CFP | Great Lakes Restoration Initiative: Community Forest and Open Space Conservation Program | USDA-FS | 07/22/2026 | [link](https://www.grants.gov/search-results-detail/361418) |
+| 12/31/2026 | USDA-NIFA-AFRI-011596 | Agriculture and Food Research Initiative Competitive Grants Program Education and Workforce Development | USDA-NIFA | 01/20/2026 | [link](https://www.grants.gov/search-results-detail/361169) |
+| 12/31/2026 | USDA-NIFA-TCRGP-011697 | Tribal Colleges Research Grants Program | USDA-NIFA | 04/22/2026 | [link](https://www.grants.gov/search-results-detail/362029) |
+| 12/31/2026 | USDA-NIFA-AFRI-011134 | Agriculture and Food Research Initiative Competitive Grants Program Foundational and Applied Science Program | USDA-NIFA | 08/01/2025 | [link](https://www.grants.gov/search-results-detail/360205) |
+| 12/31/2026 | TAT-FY27 | Technical Assistance and Training Grant Program | USDA-RUS | 10/01/2026 | [link](https://www.grants.gov/search-results-detail/364019) |
+| 12/31/2026 | SWMFY27 | Solid Waste Management Grant Program | USDA-RUS | 10/01/2026 | [link](https://www.grants.gov/search-results-detail/364018) |
+| 01/04/2027 | USDA-AMS-TM-DBI-G-26-0011 | Dairy Business Innovation Initiatives Program (DBI) Fiscal Year 2026 | USDA-AMS | 09/30/2026 | [link](https://www.grants.gov/search-results-detail/364006) |
+| 01/07/2027 | USDA-APHIS-10025-VSSP0000-27-0002 | National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 State Preparedness Funding Opportunity | USDA-APHIS | 11/05/2026 | [link](https://www.grants.gov/search-results-detail/364215) |
+| 01/07/2027 | USDA-APHIS-10025-VSSP0000-27-0001 | National Animal Disease Preparedness and Response Program (NADPRP) FY 2027 Industry Preparedness Funding Opportunity | USDA-APHIS | 11/05/2026 | [link](https://www.grants.gov/search-results-detail/364214) |
+| 01/11/2027 | USDA-FNA-CN-HTH-NSLP-EAG-2027 | Harvest to Hallways: National School Lunch Program, Equipment Assistance Grants | USDA-FNS1 | 10/28/2026 | [link](https://www.grants.gov/search-results-detail/364164) |
+| 01/26/2027 | USDA-FS-2026-LSR-TRIBAL | Landscape Scale Restoration Grant Program for Tribes | USDA-FS | 10/28/2026 | [link](https://www.grants.gov/search-results-detail/364145) |
+| 01/26/2027 | USDA-FS-2026-LSR | Landscape Scale Restoration Grant Program for Non-Federal Lands | USDA-FS | 10/28/2026 | [link](https://www.grants.gov/search-results-detail/364144) |
+| 01/31/2027 | RBCS-2026-AIC | Agriculture Innovation Center Grant Program | USDA-RBCS | 09/09/2026 | [link](https://www.grants.gov/search-results-detail/363833) |
+| 03/15/2027 | USDA-NIFA-OP-012541 | Research Facilities Act Program | USDA-NIFA | 11/16/2026 | [link](https://www.grants.gov/search-results-detail/364271) |
+|  | RDBCP-REAP-RES-EEI-2019 | Renewable Energy Systems and Energy Efficiency Improvements Program | USDA-RBCS | 10/30/2018 | [link](https://www.grants.gov/search-results-detail/310029) |
+
+[Download CSV](open-usda.csv) · [All weekly slices](../index.md)
+
+Get this slice as live, filterable data with [US Federal Grants Monitor](https://apify.com/civic_data_feeds/us-grants-monitor) on Apify. Input for this slice:
+
+```json
+{
+  "statuses": [
+    "posted"
+  ],
+  "agencies": [
+    "USDA"
+  ],
+  "maxResults": 200
+}
+```
+
+Source: Grants.gov, a US federal government website (public domain). Agency codes need a trailing wildcard in the search API.

@@ -1,0 +1,57 @@
+---
+title: "Planned battery storage projects in Arizona (50 MW and up)"
+description: "Planned battery storage projects of 50 MW and up in Arizona from the EIA-860M inventory, largest first."
+---
+# Planned battery storage projects in Arizona (50 MW and up)
+
+26 planned battery generator rows of 50 MW or more in Arizona, 6,558 MW in total, from the September 2026 EIA-860M workbook; the largest 25 are shown. A plant can be several rows. Refreshed 2026-11-17.
+
+| Plant | Owner | County | MW | Planned online | Status |
+|---|---|---|---|---|---|
+| Maricopa Solar | Maricopa Solar | Maricopa | 550 | 2026-12 | (U) Under construction, less than or equal to 50 percent complete |
+| Snowflake A Solar and BESS | Clenera DevCo LLC | Navajo | 475 | 2027-08 | (L) Regulatory approvals pending. Not under construction |
+| CO Bar Solar and BESS | Clenera DevCo LLC | Coconino | 400 | 2027-12 | (P) Planned for installation, but regulatory approvals not initiated |
+| Valley Farms Energy Center | Valley Farms Energy Center, LLC | Pinal | 400 | 2027-12 | (U) Under construction, less than or equal to 50 percent complete |
+| Eagle Eye Solar and Storage | EAGL bn, LLC | La Paz | 400 | 2028-05 | (L) Regulatory approvals pending. Not under construction |
+| CO Bar D Solar and BESS | Clenera DevCo LLC | Coconino | 394 | 2028-05 | (P) Planned for installation, but regulatory approvals not initiated |
+| Pioneer Clean Energy Center | Yuma bn, LLC | Yuma | 300 | 2027-04 | (U) Under construction, less than or equal to 50 percent complete |
+| Red Antelope Solar & Energy Storage Farm | 302PN 8me LLC | Coconino | 300 | 2028-05 | (P) Planned for installation, but regulatory approvals not initiated |
+| Desert Sand BESS | DESA bn, LLC | Maricopa | 300 | 2028-12 | (L) Regulatory approvals pending. Not under construction |
+| THREE SISTERS Solar Generation and BESS | THSI bn, LLC | Pinal | 300 | 2029-04 | (L) Regulatory approvals pending. Not under construction |
+| Hashknife Energy Center LLC | Invenergy Services LLC | Navajo | 275 | 2026-11 | (V) Under construction, more than 50 percent complete |
+| Sawtooth Solar | EDF Renewables Development, Inc. | Pinal | 250 | 2028-06 | (L) Regulatory approvals pending. Not under construction |
+| Romero Energy Center | Romero Energy Center, LLC | Maricopa | 225 | 2027-06 | (U) Under construction, less than or equal to 50 percent complete |
+| Romero Energy Center II, LLC | Romero Energy Center II, LLC | Maricopa | 225 | 2028-06 | (U) Under construction, less than or equal to 50 percent complete |
+| Atlas VIII | Atlas VIII LLC | La Paz | 210 | 2026-12 | (V) Under construction, more than 50 percent complete |
+| CO Bar C Solar and BESS | Clenera DevCo LLC | Coconino | 206 | 2027-08 | (P) Planned for installation, but regulatory approvals not initiated |
+| Hashknife Energy Center II LLC | Invenergy Services LLC | Navajo | 200 | 2027-03 | (V) Under construction, more than 50 percent complete |
+| Atlas VIII | Atlas VIII LLC | La Paz | 172.4 | 2027-01 | (V) Under construction, more than 50 percent complete |
+| Agave | Arizona Public Service Co | Maricopa | 150 | 2026-11 | (TS) Construction complete, but not yet in commercial operation |
+| Atlas BESS IV LLC | ATLAS BESS IV, LLC | La Paz | 150 | 2027-03 | (V) Under construction, more than 50 percent complete |
+| Selma Energy Center | Selma Energy Center, LLC | Pinal | 150 | 2027-12 | (U) Under construction, less than or equal to 50 percent complete |
+| Sierra Luna Energy Storage | Sierra Luna Energy Storage LLC | Maricopa | 150 | 2030-12 | (P) Planned for installation, but regulatory approvals not initiated |
+| Kitt Solar | 301AK 8me LLC | Pinal | 100 | 2026-12 | (V) Under construction, more than 50 percent complete |
+| White Tank Energy Storage | White Tank Energy Storage LLC | Maricopa | 100 | 2027-04 | (U) Under construction, less than or equal to 50 percent complete |
+| Winchester Solar I, LLC | Torch Operating Company, LLC | Cochise | 87.8 | 2027-03 | (V) Under construction, more than 50 percent complete |
+
+[Download CSV](planned-batteries-arizona.csv) · [All weekly slices](../index.md)
+
+Get this slice as live, filterable data with [US Power Plant Pipeline](https://apify.com/civic_data_feeds/us-power-plant-pipeline) on Apify. Input for this slice:
+
+```json
+{
+  "inventories": [
+    "planned"
+  ],
+  "states": [
+    "AZ"
+  ],
+  "technologies": [
+    "Batteries"
+  ],
+  "minMw": 50,
+  "maxResults": 500
+}
+```
+
+Source: U.S. Energy Information Administration, Form EIA-860M (public domain). Capacity is preliminary nameplate MW.

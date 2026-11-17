@@ -1,0 +1,55 @@
+---
+title: "IT services tenders in Poland: new this week"
+description: "New IT services (CPV 72) tenders published in Poland in the last 7 days, from TED, with deadlines and links."
+---
+# IT services tenders in Poland: new this week
+
+106 open competitions in CPV division 72 (IT services) were published by buyers in Poland since 2026-11-10; the newest 25 are shown. Refreshed 2026-11-17.
+
+| Published | Title | Buyer | Deadline | Value | Notice |
+|---|---|---|---|---|---|
+| 2026-11-10 | Poland – Technical computer support services – Obsługa techniczna nieruchomości Centrum Nauki Kopernik oraz Pracowni Prz | Centrum Nauki Kopernik | 2026-12-04 | 0 ['PLN'] | [link](https://ted.europa.eu/en/notice/-/detail/779400-2026) |
+| 2026-11-10 | Poland – Access control system – 42/PN/2026 system kontroli dostępu | Zakład Utylizacyjny Sp. z o.o. w Gdańsku | 2026-12-15 |  | [link](https://ted.europa.eu/en/notice/-/detail/779445-2026) |
+| 2026-11-10 | Poland – Surveillance and security systems and devices – Usługa eksploatacji i rozwoju Systemu Dozoru Elektronicznego | Ministerstwo Sprawiedliwości | 2026-11-24 |  | [link](https://ted.europa.eu/en/notice/-/detail/779507-2026) |
+| 2026-11-10 | Poland – Database services – Weryfikacja i zapewnienie kompletności produkcyjnej bazy danych w systemie ISOK | Państwowe Gospodarstwo Wodne Wody Polskie | 2026-11-17 | 279333.82 ['PLN'] | [link](https://ted.europa.eu/en/notice/-/detail/779663-2026) |
+| 2026-11-10 | Poland – Software development services – Utrzymanie i rozwój systemu informatycznego EBS przez okres 47 miesięcy | Agencja Restrukturyzacji i Modernizacji Rolnictwa | 2026-12-11 |  | [link](https://ted.europa.eu/en/notice/-/detail/779841-2026) |
+| 2026-11-10 | Poland – Software supply services – Zakup usługi utrzymania systemu DNS Security oraz zarządzania usługami DNS, DHCP i I | Agencja Restrukturyzacji i Modernizacji Rolnictwa | 2026-11-25 |  | [link](https://ted.europa.eu/en/notice/-/detail/779994-2026) |
+| 2026-11-10 | Poland – Technical computer support services – Wsparcie dla zestawu narzędzi UB Partner XBRL Toolkit | Urząd Komisji Nadzoru Finansowego | 2026-11-26 |  | [link](https://ted.europa.eu/en/notice/-/detail/780317-2026) |
+| 2026-11-10 | Poland – Personal computer (PC) operating system software package – Sukcesywne dostawy produktów w ramach programu licen | Miasto Stołeczne Warszawa | 2026-11-23 |  | [link](https://ted.europa.eu/en/notice/-/detail/780376-2026) |
+| 2026-11-10 | Poland – Data services – Wprowadzanie danych do modułu REJESTR GRUNTÓW - ARCHIWUM w programie EWOPIS w oparciu o zeskano | ZWIĄZEK POWIATÓW LUBUSKICH | 2026-11-24 |  | [link](https://ted.europa.eu/en/notice/-/detail/780602-2026) |
+| 2026-11-10 | Poland – Programming services – Wsparcie w zakresie cyberbezpieczeństwa oraz świadczenie usług Security Operations Cente | Agencja Oceny Technologii Medycznych i Taryfikacji | 2026-11-30 |  | [link](https://ted.europa.eu/en/notice/-/detail/780606-2026) |
+| 2026-11-10 | Poland – IT software package – Odnowienie wsparcia na sprzęt i oprogramowanie | Polska Agencja Żeglugi Powietrznej | 2026-11-23 |  | [link](https://ted.europa.eu/en/notice/-/detail/780608-2026) |
+| 2026-11-10 | Poland – Miscellaneous software package and computer systems – Zakup i dostawa infrastruktury serwerowej wraz z odnowien | Główny Inspektorat Transportu Drogowego | 2026-11-25 | 301823.56 ['PLN'] | [link](https://ted.europa.eu/en/notice/-/detail/780747-2026) |
+| 2026-11-10 | Poland – Software maintenance and repair services – Usługa asysty technicznej (ATIK) dla produktów Oracle (standardowe o | KOMENDA GŁÓWNA POLICJI | 2026-12-07 |  | [link](https://ted.europa.eu/en/notice/-/detail/780921-2026) |
+| 2026-11-10 | Poland – System and support services – Utrzymanie i wsparcie techniczne Zintegrowanego Systemu Informatycznego Wspomagaj | Kancelaria Prezesa Rady Ministrów | 2026-11-20 |  | [link](https://ted.europa.eu/en/notice/-/detail/781131-2026) |
+| 2026-11-10 | Poland – IT services: consulting, software development, Internet and support – Utrzymanie infrastruktury IT Obszarowego  | Miasto Łódź - Urząd Miasta Łodzi | 2026-11-24 |  | [link](https://ted.europa.eu/en/notice/-/detail/781366-2026) |
+| 2026-11-10 | Poland – Miscellaneous software package and computer systems – Nowoczesny e-urząd w gminie Tuszów Narodowy | Gmina Tuszów Narodowy | 2026-11-23 |  | [link](https://ted.europa.eu/en/notice/-/detail/781434-2026) |
+| 2026-11-10 | Poland – Theatre management system – Dostawa systemu informatycznego do planowania i zarządzania pracą bloku operacyjneg | UNIWERSYTECKI SZPITAL KLINICZNY IM. JANA MIKULICZA-RADECKIEGO WE WROCŁAWIU | 2026-11-18 |  | [link](https://ted.europa.eu/en/notice/-/detail/781823-2026) |
+| 2026-11-10 | Poland – Systems support services – Utrzymanie oraz Modyfikacje Systemu RECourt (RC), RECourt Player, RECourt Services ( | Sąd Apelacyjny we Wrocławiu | 2026-11-20 |  | [link](https://ted.europa.eu/en/notice/-/detail/781890-2026) |
+| 2026-11-10 | Poland – IT services: consulting, software development, Internet and support – Zapewnienie zasobów chmury publicznej dla | Miasto Stołeczne Warszawa | 2026-11-27 |  | [link](https://ted.europa.eu/en/notice/-/detail/782623-2026) |
+| 2026-11-11 | Poland – IT services: consulting, software development, Internet and support – Zakup narzędzia analitycznego wspierające | Narodowy Bank Polski | 2026-11-27 | 1775903.48 ['PLN'] | [link](https://ted.europa.eu/en/notice/-/detail/784116-2026) |
+| 2026-11-11 | Poland – Command and control system – Budowa oraz wyposażenie układu do monitorowania i sterowania obiektów sieciowych e | Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o. w Rudzie Śląskiej | 2026-11-30 |  | [link](https://ted.europa.eu/en/notice/-/detail/784274-2026) |
+| 2026-11-11 | Poland – Software maintenance and repair services – Opieka serwisowa dla systemu Simple.ERP oraz dostęp do aktualizacji  | Szpital Uniwersytecki nr 1 im. dr. A. Jurasza w Bydgoszczy | 2026-12-11 | 243006 ['PLN'] | [link](https://ted.europa.eu/en/notice/-/detail/784350-2026) |
+| 2026-11-11 | Poland – World wide web (www) site design services – Zaprojektowanie, budowa i wdrożenie nowej strony internetowej wraz  | Województwo Małopolskie | 2026-11-25 | 304168.88 ['PLN'] | [link](https://ted.europa.eu/en/notice/-/detail/784424-2026) |
+| 2026-11-11 | Poland – Software maintenance and repair services – zakup Licencji bezterminowych Oracle lub rozwiązanie równoważne* wra | Narodowy Fundusz Zdrowia Centrala | 2026-12-15 | 52173600 ['PLN'] | [link](https://ted.europa.eu/en/notice/-/detail/784608-2026) |
+| 2026-11-11 | Poland – Security software package – Wzmocnienie cyberbezpieczeństwa infrastruktury wodociągowej w BPWIK Sp. z o.o. Brwi | Brwinowskie Przedsiębiorstwo Wodociągów i Kanalizacji Sp. z o.o. z siedzibą w Brwinowie | 2026-11-20 |  | [link](https://ted.europa.eu/en/notice/-/detail/785334-2026) |
+
+[Download CSV](it-services-poland.csv) · [All weekly slices](../index.md)
+
+Get this slice as live, filterable data with [EU & UK Public Tenders Monitor](https://apify.com/civic_data_feeds/public-tenders-monitor) on Apify. Input for this slice:
+
+```json
+{
+  "cpvCodes": [
+    "72"
+  ],
+  "countries": [
+    "PL"
+  ],
+  "noticeType": "competition",
+  "daysBack": 7,
+  "maxResults": 200
+}
+```
+
+Source: TED, © European Union. Counts are TED contract notices of types cn-standard, cn-social and cn-desg.

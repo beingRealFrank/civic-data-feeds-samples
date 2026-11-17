@@ -1,0 +1,57 @@
+---
+title: "Planned battery storage projects in Texas (50 MW and up)"
+description: "Planned battery storage projects of 50 MW and up in Texas from the EIA-860M inventory, largest first."
+---
+# Planned battery storage projects in Texas (50 MW and up)
+
+131 planned battery generator rows of 50 MW or more in Texas, 25,071 MW in total, from the September 2026 EIA-860M workbook; the largest 25 are shown. A plant can be several rows. Refreshed 2026-11-17.
+
+| Plant | Owner | County | MW | Planned online | Status |
+|---|---|---|---|---|---|
+| Clear Fork Creek Solar and BESS SLF | Clear Fork | Wilson | 600 | 2027-03 | (U) Under construction, less than or equal to 50 percent complete |
+| Hecate Energy Ramsey Storage | Hecate Energy Ramsey Storage, LLC | Wharton | 500 | 2027-12 | (P) Planned for installation, but regulatory approvals not initiated |
+| Sunscape Renewable Energy | Vesper Energy Development LLC | Nueces | 500 | 2028-10 | (P) Planned for installation, but regulatory approvals not initiated |
+| La Salle ESS | La Salle ESS LLC | LaSalle | 500 | 2029-07 | (P) Planned for installation, but regulatory approvals not initiated |
+| Quantum BESS | Intersect USA, LLC | Haskell | 422.4 | 2026-11 | (TS) Construction complete, but not yet in commercial operation |
+| Quantum II BESS | Intersect USA, LLC | Haskell | 422.4 | 2026-12 | (TS) Construction complete, but not yet in commercial operation |
+| Tehuacana Creek Solar | Parliament Energy Holdings LLC | Navarro | 418 | 2026-12 | (V) Under construction, more than 50 percent complete |
+| Callisto II Energy Center | Callisto II Energy Center LLC | Harris | 400 | 2026-11 | (V) Under construction, more than 50 percent complete |
+| Iron Belt | Iron Belt Energy Storage Project, LLC | Borden | 400 | 2027-06 | (P) Planned for installation, but regulatory approvals not initiated |
+| Rowdy Creek Solar and BESS | Parliament Energy Holdings LLC | Lamar | 350 | 2027-05 | (L) Regulatory approvals pending. Not under construction |
+| Cuchillas PV and BESS | Gransolar Texas Two LLC | Webb | 306.9 | 2028-12 | (L) Regulatory approvals pending. Not under construction |
+| Ash Creek BESS | ACTX BESS Project LLC | Hill | 306 | 2028-03 | (P) Planned for installation, but regulatory approvals not initiated |
+| Banita Creek- Spindlepop Solar | Parliament Energy Holdings LLC | Nacogdoches | 302.9 | 2027-04 | (L) Regulatory approvals pending. Not under construction |
+| Red Hollow Renewable Energy | Vesper Energy Development LLC | Archer | 300 | 2027-10 | (P) Planned for installation, but regulatory approvals not initiated |
+| Red Egret | Red Egret, LLC | Galveston | 300 | 2027-10 | (U) Under construction, less than or equal to 50 percent complete |
+| Elio Energy LLC | Elio Energy LLC | Brazoria | 300 | 2027-12 | (P) Planned for installation, but regulatory approvals not initiated |
+| Sunrose Renewable Energy | Vesper Energy Development LLC | Austin | 300 | 2027-12 | (P) Planned for installation, but regulatory approvals not initiated |
+| O'Bannion Energy Storage | O'Bannion Energy Storage, LLC | Jack | 300 | 2028-12 | (T) Regulatory approvals received. Not under construction |
+| Hecate Grid East Valley Storage | Hecate Grid East Valley Storage, LLC | Cameron | 255 | 2027-12 | (P) Planned for installation, but regulatory approvals not initiated |
+| Mallard Energy Storage | Mallard Energy Storage, LLC | Collin | 250 | 2026-10 | (U) Under construction, less than or equal to 50 percent complete |
+| Zeya | Engie North America | Galveston | 250 | 2026-12 | (U) Under construction, less than or equal to 50 percent complete |
+| Elm Flats Solar | Headwater Energy, LLC | Navarro | 250 | 2027-09 | (U) Under construction, less than or equal to 50 percent complete |
+| Rock N' Roll | Lydian Energy | Brazoria | 250 | 2027-10 | (L) Regulatory approvals pending. Not under construction |
+| Evlou Solar, LLC | Evlou Solar, LLC | El Paso | 250 | 2028-01 | (U) Under construction, less than or equal to 50 percent complete |
+| Mystic Springs Renewable Energy (Hybrid) | Vesper Energy Development LLC | Kaufman | 250 | 2028-03 | (P) Planned for installation, but regulatory approvals not initiated |
+
+[Download CSV](planned-batteries-texas.csv) · [All weekly slices](../index.md)
+
+Get this slice as live, filterable data with [US Power Plant Pipeline](https://apify.com/civic_data_feeds/us-power-plant-pipeline) on Apify. Input for this slice:
+
+```json
+{
+  "inventories": [
+    "planned"
+  ],
+  "states": [
+    "TX"
+  ],
+  "technologies": [
+    "Batteries"
+  ],
+  "minMw": 50,
+  "maxResults": 500
+}
+```
+
+Source: U.S. Energy Information Administration, Form EIA-860M (public domain). Capacity is preliminary nameplate MW.
